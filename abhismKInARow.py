@@ -1,8 +1,7 @@
-# Name - Abhishek Mishra 
-# Sutdent id - 0934024
-# File - abhismKInARow.py
-# Course - CSE 415 Au '12
-# Instructor - Steve Tanimoto
+'''
+Game engine for the Tic-Tac-Toe agents.
+
+'''
 
 import random
 import winTesterForK

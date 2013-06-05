@@ -1,6 +1,4 @@
-'''GameMaster.py
- based on code from RunKInARow.py
-'''
+'''Game manager for the program'''
 
 USE_HTML = True
 
