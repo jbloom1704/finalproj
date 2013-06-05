@@ -45,7 +45,7 @@ def stateToHTML(state, finished=False):
             if col=='X': img = "X32.png"
             elif col=='O': img = "O32.png"
             elif col=="-": img = "black32.png"
-            html += "<td><img src=" + img + "></td>"
+            html += "<td><img style='width:50px;height:50px;' src=" + img + "></td>"
         html += "</tr>\n"
     html += "</table><br>\n"
     if not finished: html += "<h3>"+who+" to move.</h3>\n"
