@@ -11,12 +11,6 @@ from time import sleep
 
 if USE_HTML: import gameToHTML
 
-TTT_INITIAL_STATE = \
-              [[[' ',' ',' ',' '],
-                [' ',' ',' ',' '],
-                [' ',' ',' ',' '],
-				[' ',' ',' ',' ']], "X"]
-
 GAME_TYPE = 'TIC-TAC-TOE'
 
 
